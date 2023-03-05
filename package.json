@@ -10,7 +10,7 @@
     "@testing-library/user-event": "^13.5.0",
     "@typechain/ethers-v5": "^10.1.0",
     "@types/jest": "^27.5.2",
-    "@types/node": "^16.11.68",
+    "@types/node": "^18.14.6",
     "@types/react": "^18.0.21",
     "@types/react-dom": "^18.0.6",
     "@uauth/web3-react": "^2.2.0",
